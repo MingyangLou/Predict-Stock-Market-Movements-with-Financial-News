@@ -1,5 +1,5 @@
 # Predict-Stock-Market-Movements-with-Financial-News
->A data analysis project that utilizes financial news data to predict stock market movements.
+>A data analysis project that utilizes financial news data from 2006 to 2013 to predict S&P 500 index directional movements within the same time span.
 
 >[Here](https://www.youtube.com/watch?v=G42dY5b8jg0) is a brief introductory vedio.
 ## Table of Contents
