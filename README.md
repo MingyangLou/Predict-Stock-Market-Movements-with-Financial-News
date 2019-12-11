@@ -35,7 +35,7 @@ Our biggest motivation is to __benefit individuals without financial backgrounds
 This project is accomplished by a team of five Master of Engineering students in IEOR at UC Berkeley.
 ### Team Members
 - [Mingyang Lou](https://www.linkedin.com/in/mingyanglou/)
-- Yuyang Shao
+- [Yuyang Shao](https://www.linkedin.com/in/yuyang-shao/)
 - Nicolas Kardous
 - Yida Cui
 - Fuhua Liu
