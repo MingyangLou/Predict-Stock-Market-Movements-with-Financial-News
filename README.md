@@ -41,6 +41,6 @@ This project is accomplished by a team of five Master of Engineering students in
 - [Mingyang Lou](https://www.linkedin.com/in/mingyanglou/)
 - [Yuyang Shao](https://www.linkedin.com/in/yuyang-shao/)
 - Nicolas Kardous
-- Yida Cui
+- [Yida Cui](https://www.linkedin.com/in/yida-cui/)
 - Fuhua Liu
 
